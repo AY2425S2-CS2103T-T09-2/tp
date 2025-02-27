@@ -7,7 +7,7 @@ import java.nio.file.Paths;
 
 import seedu.address.commons.core.index.Index;
 import seedu.address.model.Model;
-import seedu.address.model.person.Person;
+import seedu.address.model.patient.Patient;
 
 /**
  * A utility class for test cases.
@@ -20,7 +20,8 @@ public class TestUtil {
     private static final Path SANDBOX_FOLDER = Paths.get("src", "test", "data", "sandbox");
 
     /**
-     * Appends {@code fileName} to the sandbox folder path and returns the resulting path.
+     * Appends {@code fileName} to the sandbox folder path and returns the resulting
+     * path.
      * Creates the sandbox folder if it doesn't exist.
      */
     public static Path getFilePathInSandboxFolder(String fileName) {
@@ -33,23 +34,23 @@ public class TestUtil {
     }
 
     /**
-     * Returns the middle index of the person in the {@code model}'s person list.
+     * Returns the middle index of the patient in the {@code model}'s patient list.
      */
     public static Index getMidIndex(Model model) {
-        return Index.fromOneBased(model.getFilteredPersonList().size() / 2);
+        return Index.fromOneBased(model.getFilteredPatientList().size() / 2);
     }
 
     /**
-     * Returns the last index of the person in the {@code model}'s person list.
+     * Returns the last index of the patient in the {@code model}'s patient list.
      */
     public static Index getLastIndex(Model model) {
-        return Index.fromOneBased(model.getFilteredPersonList().size());
+        return Index.fromOneBased(model.getFilteredPatientList().size());
     }
 
     /**
-     * Returns the person in the {@code model}'s person list at {@code index}.
+     * Returns the patient in the {@code model}'s patient list at {@code index}.
      */
-    public static Person getPerson(Model model, Index index) {
-        return model.getFilteredPersonList().get(index.getZeroBased());
+    public static Patient getPatient(Model model, Index index) {
+        return model.getFilteredPatientList().get(index.getZeroBased());
     }
 }
