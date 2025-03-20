@@ -107,7 +107,7 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "klinix-user-guide": "Klinix User Guide",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
@@ -117,6 +117,9 @@
         "locating-persons-by-name-find": "Locating persons by name: find",
         "deleting-a-person-delete": "Deleting a person : delete",
         "clearing-all-entries-clear": "Clearing all entries : clear",
+        "add-medicine-usage-records-addmu": "Add medicine usage records: addmu",
+        "clear-all-medicine-usage-records-clearmu": "Clear all medicine usage records: clearmu",
+        "delete-medicine-usage-records-deletemu": "Delete medicine usage records: deletemu",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
