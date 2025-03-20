@@ -118,7 +118,7 @@
         "deleting-a-person-delete": "Deleting a person : delete",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "add-medical-report-addmr": "Add medical report: addmr",
-        "delete-medical-report-dmr": "Delete medical report: dmr",
+        "delete-medical-report-deletemr": "Delete medical report: deletemr",
         "add-medicine-usage-records-addmu": "Add medicine usage records: addmu",
         "clear-all-medicine-usage-records-clearmu": "Clear all medicine usage records: clearmu",
         "delete-medicine-usage-records-deletemu": "Delete medicine usage records: deletemu",
