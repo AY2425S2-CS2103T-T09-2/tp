@@ -123,6 +123,7 @@
         "clear-all-medicine-usage-records-clearmu": "Clear all medicine usage records: clearmu",
         "delete-medicine-usage-records-deletemu": "Delete medicine usage records: deletemu",
         "add-appointment-addappt": "Add appointment: addappt",
+        "delete-appointment-deleteappt": "Delete appointment: deleteappt",
         "clear-all-appointment-records-clearappt": "Clear all appointment records: clearappt",
         "delete-appointment-records-deleteappt": "Delete appointment records: deleteappt",
         "exiting-the-program-exit": "Exiting the program : exit",
