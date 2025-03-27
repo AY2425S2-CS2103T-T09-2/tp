@@ -126,6 +126,7 @@
         "delete-appointment-deleteappt": "Delete appointment: deleteappt",
         "clear-all-appointment-records-clearappt": "Clear all appointment records: clearappt",
         "delete-appointment-records-deleteappt": "Delete appointment records: deleteappt",
+        "view-appointments-on-specific-date-appton": "View appointments on specific date: appton",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
