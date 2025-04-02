@@ -49,6 +49,7 @@
         "logic-component": "Logic component",
         "model-component": "Model component",
         "storage-component": "Storage component",
+        "person-class": "Person class",
         "common-classes": "Common classes",
         "implementation": "Implementation",
         "view-appointment-command": "View appointment command",
