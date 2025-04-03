@@ -64,6 +64,8 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
+        "adding-a-medical-report": "Adding a medical report",
+        "deleting-a-medical-report": "Deleting a medical report",
         "making-an-appointment": "Making an appointment",
         "deleting-an-appointment": "Deleting an appointment",
         "clearing-appointments": "Clearing appointments",
