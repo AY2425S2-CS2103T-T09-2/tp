@@ -416,10 +416,10 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("Adding a medical report to a pat
 with(this){return _c('h3',{attrs:{"id":"deleting-a-medical-report"}},[_v("Deleting a medical report"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#deleting-a-medical-report","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Command:")]),_v(" "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("dmr")]),_c('br')])}
+with(this){return _c('p',[_c('strong',[_v("Command:")]),_v(" "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("deletemr")]),_c('br')])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("Deleting a medical report from a patient\n"),_c('ul',[_c('li',[_c('strong',[_v("Prerequisites:")]),_v(" "),_c('ul',[_c('li',[_v("The patient with that NRIC must be present in the patient list")])])]),_v(" "),_c('li',[_c('strong',[_v("Test Case:")]),_v(" "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("dmr ic/S1234567A")])]),_v(" "),_c('li',[_c('strong',[_v("Expected:")]),_v(" The patient with NRIC S1234567A in the list is updated with the following fields:\n"),_c('ul',[_c('li',[_v("Drug Allergies: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("None")])]),_v(" "),_c('li',[_v("Illnesses: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("None")])]),_v(" "),_c('li',[_v("Surgeries: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("None")])]),_v(" "),_c('li',[_v("Immunizations: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("None")])]),_v(" "),_c('li',[_v("Other fields remain unchanged\n"),_c('br'),_c('br')])])])])])])}
+with(this){return _c('ol',[_c('li',[_v("Deleting a medical report from a patient\n"),_c('ul',[_c('li',[_c('strong',[_v("Prerequisites:")]),_v(" "),_c('ul',[_c('li',[_v("The patient with that NRIC must be present in the patient list")])])]),_v(" "),_c('li',[_c('strong',[_v("Test Case:")]),_v(" "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("deletemr ic/S1234567A")])]),_v(" "),_c('li',[_c('strong',[_v("Expected:")]),_v(" The patient with NRIC S1234567A in the list is updated with the following fields:\n"),_c('ul',[_c('li',[_v("Drug Allergies: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("None")])]),_v(" "),_c('li',[_v("Illnesses: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("None")])]),_v(" "),_c('li',[_v("Surgeries: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("None")])]),_v(" "),_c('li',[_v("Immunizations: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("None")])]),_v(" "),_c('li',[_v("Other fields remain unchanged\n"),_c('br'),_c('br')])])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"making-an-appointment"}},[_v("Making an appointment"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#making-an-appointment","onclick":"event.stopPropagation()"}})])}
@@ -455,6 +455,6 @@ with(this){return _c('h3',{attrs:{"id":"saving-data"}},[_v("Saving data"),_c('a'
 with(this){return _c('ol',[_c('li',[_c('p',[_v("Dealing with missing/corrupted data files")]),_v(" "),_c('ol',[_c('li',[_c('em',[_v("{explain how to simulate a missing/corrupted file, and the expected behavior}")])])])]),_v(" "),_c('li',[_c('p',[_c('em',[_v("{ more test cases …​ }")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Thu, 3 Apr 2025, 16:17:55 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Thu, 3 Apr 2025, 16:25:03 GMT+8]")])])])}
 }];
   
