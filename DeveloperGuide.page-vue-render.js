@@ -293,7 +293,7 @@ with(this){return _c('ol',[_c('li',[_v("User requests to add a medicine usage re
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("2a. Missing NRIC → System returns \"Error: Patient NRIC is missing.\"")]),_v(" "),_c('li',[_v("2b. Invalid NRIC format → System returns \"Error: NRIC must be valid.\"")]),_v(" "),_c('li',[_v("3a. No medical report found → System returns \"Error: Medical report for Patient [NRIC] is missing.\"")]),_v(" "),_c('li',[_v("4a. Duplicate entry detected → System returns \"Error: Duplicate entry detected. No changes were made.\"")]),_v(" "),_c('li',[_v("4b. Start date is after end date → System returns \"Error: Date must be in YYYY-MM-DD format.\"")])])}
+with(this){return _c('ul',[_c('li',[_v("2a. Missing NRIC → System returns \"Error: Patient NRIC is missing.\"")]),_v(" "),_c('li',[_v("2b. Invalid NRIC format → System returns \"Error: NRIC must be valid.\"")]),_v(" "),_c('li',[_v("3a. No medical report found → System returns \"Error: Medical report for Patient [NRIC] is missing.\"")]),_v(" "),_c('li',[_v("4a. Duplicate entry detected → System returns \"Error: Duplicate entry detected. No changes were made.\"")]),_v(" "),_c('li',[_v("4b. Start date is after end date → System returns \"Error: Date must be in dd-MM-yyyy format.\"")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Delete Medicine Usage Record")])])}
@@ -323,7 +323,7 @@ with(this){return _c('ol',[_c('li',[_v("User requests to add an appointment for 
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("2a. Missing NRIC → System returns \"Error: Patient NRIC is missing.\"")]),_v(" "),_c('li',[_v("2b. Invalid NRIC format → System returns \"Error: NRIC must be valid.\"")]),_v(" "),_c('li',[_v("2c. Missing doctor NRIC → System returns \"Error: Doctor NRIC is missing.\"")]),_v(" "),_c('li',[_v("3a. Overlapping appointment detected → System returns \"Error: Appointment overlaps with an existing one.\"")]),_v(" "),_c('li',[_v("4a. Invalid date format → System returns \"Error: Date must be in YYYY-MM-DD-HHmm format.\"")])])}
+with(this){return _c('ul',[_c('li',[_v("2a. Missing NRIC → System returns \"Error: Patient NRIC is missing.\"")]),_v(" "),_c('li',[_v("2b. Invalid NRIC format → System returns \"Error: NRIC must be valid.\"")]),_v(" "),_c('li',[_v("2c. Missing doctor NRIC → System returns \"Error: Doctor NRIC is missing.\"")]),_v(" "),_c('li',[_v("3a. Overlapping appointment detected → System returns \"Error: Appointment overlaps with an existing one.\"")]),_v(" "),_c('li',[_v("4a. Invalid date format → System returns \"Error: Date must be in dd-MM-yyyy HH:mm format.\"")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Delete Appointment")])])}
@@ -437,6 +437,6 @@ with(this){return _c('h3',{attrs:{"id":"saving-data"}},[_v("Saving data"),_c('a'
 with(this){return _c('ol',[_c('li',[_c('p',[_v("Dealing with missing/corrupted data files")]),_v(" "),_c('ol',[_c('li',[_c('em',[_v("{explain how to simulate a missing/corrupted file, and the expected behavior}")])])])]),_v(" "),_c('li',[_c('p',[_c('em',[_v("{ more test cases …​ }")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Thu, 3 Apr 2025, 13:35:08 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Thu, 3 Apr 2025, 13:35:44 GMT+8]")])])])}
 }];
   
