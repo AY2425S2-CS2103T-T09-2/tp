@@ -110,6 +110,9 @@
       "headings": {
         "klinix-user-guide": "Klinix User Guide",
         "quick-start": "Quick start",
+        "input-parameters": "Input parameters",
+        "appointment-parameters": "Appointment Parameters",
+        "other-parameters": "Other Parameters",
         "features": "Features",
         "viewing-past-commands": "Viewing past commands:",
         "viewing-help-help": "Viewing help : help",
