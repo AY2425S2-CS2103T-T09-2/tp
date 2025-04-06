@@ -54,6 +54,7 @@
         "implementation": "Implementation",
         "add-appointment-feature": "Add Appointment Feature",
         "view-appointment-command": "View appointment command",
+        "planned-enhancements": "Planned Enhancements",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
@@ -70,7 +71,8 @@
         "deleting-a-medical-report": "Deleting a medical report",
         "making-an-appointment": "Making an appointment",
         "deleting-an-appointment": "Deleting an appointment",
-        "clearing-appointments": "Clearing appointments"
+        "clearing-appointments": "Clearing appointments",
+        "appendix-efforts": "**Appendix: Efforts **"
       },
       "headingKeywords": {}
     },
