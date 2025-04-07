@@ -512,7 +512,7 @@ with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Back
 with(this){return _c('h1',{attrs:{"id":"faq"}},[_v("FAQ"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#faq","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Q")]),_v(": How do I transfer my data to another Computer?"),_c('br'),_v(" "),_c('strong',[_v("A")]),_v(": Install Klinix in the other computer and overwrite its data file with the old data file from your previous Klinix home folder.\n"),_c('strong',[_v("Q")]),_v(": How to edit an appointment since there is no command for it"),_c('br'),_v(" "),_c('strong',[_v("A")]),_v(": We suggest deleting the existing appointment with "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("deleteappt")]),_v(" command first before using "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("addappt")]),_v(" command to create a new appointment with the edited details.")])}
+with(this){return _c('p',[_c('strong',[_v("Q")]),_v(": How do I transfer my data to another Computer?"),_c('br'),_v(" "),_c('strong',[_v("A")]),_v(": Install Klinix in the other computer and overwrite its data file with the old data file from your previous Klinix home folder."),_c('br'),_v(" "),_c('strong',[_v("Q")]),_v(": How to edit an appointment since there is no command for it?"),_c('br'),_v(" "),_c('strong',[_v("A")]),_v(": We suggest deleting the existing appointment with "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("deleteappt")]),_v(" command first before using "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("addappt")]),_v(" command to create a new appointment with the edited details.")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Back to Table of Contents")])])}
@@ -545,6 +545,6 @@ with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticC
 with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Back to Table of Contents")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Mon, 7 Apr 2025, 11:08:46 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Mon, 7 Apr 2025, 11:15:22 GMT+8]")])])])}
 }];
   
