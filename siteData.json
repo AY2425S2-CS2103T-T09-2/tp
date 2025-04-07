@@ -75,6 +75,9 @@
         "adding-an-appointment": "Adding an Appointment",
         "deleting-an-appointment": "Deleting an Appointment",
         "clearing-appointments": "Clearing Appointments",
+        "marking-an-appointment": "Marking an Appointment",
+        "unmarking-an-appointment": "Unmarking an Appointment",
+        "viewing-appointments-starting-on-a-specific-date": "Viewing Appointments Starting on A Specific Date",
         "planned-enhancements": "Planned Enhancements",
         "appendix-efforts": "Appendix: Efforts"
       },
