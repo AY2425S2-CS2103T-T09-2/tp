@@ -353,7 +353,7 @@ with(this){return _c('ol',[_c('li',[_v("User requests to add a medical report fo
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("1a. Missing NRIC → Klinix shows an invalid command message."),_c('br'),_v("\nUse case resumes at step 1.")]),_v(" "),_c('li',[_v("1b. Invalid parameters format → Klinix shows an invalid parameters message."),_c('br'),_v("\nUse case resumes at step 1.")])])}
+with(this){return _c('ul',[_c('li',[_v("1a. Missing NRIC → Klinix shows an invalid command message."),_c('br'),_v("\nUse case resumes at step 1.")]),_v(" "),_c('li',[_v("1b. Invalid parameters format → Klinix shows an invalid parameters message."),_c('br'),_v("\nUse case resumes at step 1.")]),_v(" "),_c('li',[_v("1c. Patient with the given NRIC does not exist → Klinix shows an invalid patient message"),_c('br'),_v("\nUse case resumes at step 1.")]),_v(" "),_c('li',[_v("1d. No medical fields provided → Klinix shows an invalid fields message."),_c('br'),_v("\nUse case resumes at step 1.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Deleting a Medical Report")])])}
@@ -389,7 +389,7 @@ with(this){return _c('ol',[_c('li',[_v("User requests to delete a patient by ind
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("1a. Missing index → Klinix shows an invalid command message."),_c('br'),_v("\nUse case resumes at step 1.")]),_v(" "),_c('li',[_v("1b. Invalid index format → Klinix shows an invalid parameter message."),_c('br'),_v("\nUse case resumes at step 1.")]),_v(" "),_c('li',[_v("1c. Index out of bounds → Klinix shows an error message."),_c('br'),_v("\nUse case resumes at step 1.")]),_v(" "),_c('li',[_v("1d. No medical report found → Klinix shows Patient does not have medical report error message"),_c('br'),_v("\nUse case resumes at step 1.")])])}
+with(this){return _c('ul',[_c('li',[_v("1a. Missing index → Klinix shows an invalid command message."),_c('br'),_v("\nUse case resumes at step 1.")]),_v(" "),_c('li',[_v("1b. Invalid index format → Klinix shows an invalid parameter message."),_c('br'),_v("\nUse case resumes at step 1.")]),_v(" "),_c('li',[_v("1c. Index out of bounds → Klinix shows an invalid index error message."),_c('br'),_v("\nUse case resumes at step 1.")]),_v(" "),_c('li',[_v("1d. No medical report found → Klinix shows Patient does not have medical report error message"),_c('br'),_v("\nUse case resumes at step 1.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Adding a Medicine Usage Record")])])}
@@ -797,6 +797,6 @@ with(this){return _c('p',[_c('strong',[_v("Testing and Debugging:")]),_v(" To en
 with(this){return _c('h4',{attrs:{"id":"achievements"}},[_v("Achievements"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#achievements","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Tue, 8 Apr 2025, 0:40:54 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Tue, 8 Apr 2025, 0:55:28 GMT+8]")])])])}
 }];
   
