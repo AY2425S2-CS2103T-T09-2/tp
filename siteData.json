@@ -130,6 +130,7 @@
         "patient-parameters": "Patient Parameters",
         "medical-report-parameters": "Medical Report Parameters",
         "medicine-usage-parameters": "Medicine Usage Parameters",
+        "notes-klinix-considers-two-medicine-usages-from-the-same-patient-to-be-the-same-if-they-share-the-same-name-case-insensitive-and-have-overlapping-durations": "**Notes: ** Klinix considers two medicine usages from the same patient to be the same if they share the same name (case-insensitive) and have overlapping durations.",
         "appointment-parameters": "Appointment Parameters",
         "general-parameters": "General Parameters",
         "input-trimming-rules": "Input Trimming Rules",
