@@ -293,7 +293,7 @@ with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inl
 with(this){return _c('p',[_c('strong',[_v("Warning")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("The patient with the given NRIC, or at the specified index must exist, otherwise Klinix will show an error message.")]),_v(" "),_c('li',[_v("If the patient does not have an existing medical report (i.e. all fields are "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("None")]),_v("), Klinix will show an error message.")])])}
+with(this){return _c('ol',[_c('li',[_v("The patient with the given NRIC, or at the specified index must exist, otherwise Klinix will show an error message.")]),_v(" "),_c('li',[_v("If the patient does not have an existing medical report, nothing will happen.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Back to Table of Contents")])])}
@@ -545,6 +545,6 @@ with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticC
 with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Back to Table of Contents")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Mon, 7 Apr 2025, 10:16:48 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Mon, 7 Apr 2025, 10:17:24 GMT+8]")])])])}
 }];
   
