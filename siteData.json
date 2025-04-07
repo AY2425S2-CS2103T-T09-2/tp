@@ -53,7 +53,7 @@
         "common-classes": "Common classes",
         "implementation": "Implementation",
         "add-appointment-feature": "Add Appointment Feature",
-        "view-appointment-command": "View Appointment command",
+        "view-appointment-by-date-command": "View Appointment by Date command",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
