@@ -95,7 +95,7 @@ with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Back
 with(this){return _c('h3',{attrs:{"id":"viewing-patient-details"}},[_v("Viewing patient details"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#viewing-patient-details","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("You can view the details of a patient by clicking on their name in the displayed list. This will display all the details of the selected patient in the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("details")]),_v(" window.\n"),_c('a',{attrs:{"href":"/tp/images/ViewPatientDetailsDemonstration.gif","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/ViewPatientDetailsDemonstration.gif","alt":"patient details"}})])])}
+with(this){return _c('p',[_v("You can view the details of a patient by clicking on their name in the displayed list. This will display all the details of the selected patient in the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("details")]),_v(" window.\n"),_c('a',{attrs:{"href":"/tp/images/ViewPatientDetailsDemonstration.jpg","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/ViewPatientDetailsDemonstration.jpg","alt":"patient details"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Back to Table of Contents")])])}
@@ -497,6 +497,6 @@ with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticC
 with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Back to Table of Contents")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Tue, 8 Apr 2025, 0:13:07 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Tue, 8 Apr 2025, 0:29:19 GMT+8]")])])])}
 }];
   
