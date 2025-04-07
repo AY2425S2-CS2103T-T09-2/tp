@@ -263,7 +263,7 @@ with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inl
 with(this){return _c('p',[_c('strong',[_v("Warning:")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("The patient with the given NRIC must exist, otherwise Klinix will show an error message.")]),_v(" "),_c('li',[_v("If the patient already has a medical report, adding a new one will overwrite the existing one.")])])}
+with(this){return _c('ol',[_c('li',[_v("The patient with the given NRIC must exist, otherwise Klinix will show an error message.")]),_v(" "),_c('li',[_v("If the patient already has a medical report, adding a new one will overwrite the existing one.")]),_v(" "),_c('li',[_v("Although some fields are optional, at least one of the medical fields must be provided, else Klinix will show an error message.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Back to Table of Contents")])])}
@@ -284,7 +284,7 @@ with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inl
 with(this){return _c('p',[_c('strong',[_v("Format 2:")]),_v(" "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("deletemr INDEX")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("Deletes the medical report of the patient at the specified "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("INDEX")])]),_v(" "),_c('li',[_v("The index refers to the index number shown in the displayed person list.")]),_v(" "),_c('li',[_v("This index "),_c('strong',[_v("must be a positive integer")]),_v(" 1, 2, 3, ...")])])}
+with(this){return _c('ul',[_c('li',[_v("Deletes the medical report of the patient at the specified "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("INDEX")])]),_v(" "),_c('li',[_v("The index refers to the index number shown in the displayed patient list.")]),_v(" "),_c('li',[_v("This index "),_c('strong',[_v("must be a positive integer")]),_v(" 1, 2, 3, ...")])])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("deletemr 1")])])])}
@@ -344,7 +344,7 @@ with(this){return _c('h3',{attrs:{"id":"clearing-all-medicine-usage-records-clea
 with(this){return _c('p',[_c('strong',[_v("Format 1:")]),_v(" "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("clearmu ic/NRIC")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("Deletes all medicine usages from the person with the specified "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("NRIC")]),_v(".")]),_v(" "),_c('li',[_v("The "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("NRIC")]),_v(" must be valid.")])])}
+with(this){return _c('ul',[_c('li',[_v("Deletes all medicine usages from the patient with the specified "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("NRIC")]),_v(".")]),_v(" "),_c('li',[_v("The "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("NRIC")]),_v(" must be valid.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Examples: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("clearmu ic/S1234567A")])])}
@@ -545,6 +545,6 @@ with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticC
 with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Back to Table of Contents")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Mon, 7 Apr 2025, 10:01:18 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Mon, 7 Apr 2025, 10:04:21 GMT+8]")])])])}
 }];
   
