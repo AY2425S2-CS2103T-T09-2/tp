@@ -614,7 +614,7 @@ with(this){return _c('h2',{attrs:{"id":"appendix-instructions-for-manual-testing
 with(this){return _c('h3',{attrs:{"id":"launch-and-shutdown"}},[_v("Launch and shutdown"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#launch-and-shutdown","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("Initial launch")]),_v(" "),_c('p',[_v("1a. Download the jar file and copy into an empty folder")]),_v(" "),_c('p',[_v("1b. Double-click the jar file Expected: Shows the GUI with a set of sample contacts. The window size may not be optimal.")])]),_v(" "),_c('li',[_c('p',[_v("Saving window preferences")]),_v(" "),_c('p',[_v("2a. Resize the window to an optimum size. Move the window to a different location. Close the window.")]),_v(" "),_c('p',[_v("2b. Re-launch the App by double-clicking the jar file."),_c('br'),_v("\nExpected: The most recent window size and location are retained.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("Initial launch")]),_v(" "),_c('p',[_v("1a. Download the jar file and copy into an empty folder")]),_v(" "),_c('p',[_v("1b. Double-click the jar file"),_c('br')]),_v(" "),_c('ul',[_c('li',[_c('strong',[_v("Expected:")]),_v(" Shows the GUI with a set of sample contacts. The window size may not be optimal.")])])]),_v(" "),_c('li',[_c('p',[_v("Saving window preferences")]),_v(" "),_c('p',[_v("2a. Resize the window to an optimum size. Move the window to a different location. Close the window.")]),_v(" "),_c('p',[_v("2b. Re-launch the App by double-clicking the jar file."),_c('br')]),_v(" "),_c('ul',[_c('li',[_c('strong',[_v("Expected:")]),_v(" The most recent window size and location are retained.")])])])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"adding-a-patient"}},[_v("Adding a Patient"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#adding-a-patient","onclick":"event.stopPropagation()"}})])}
@@ -800,6 +800,6 @@ with(this){return _c('p',[_c('strong',[_v("Testing and Debugging:")]),_v(" To en
 with(this){return _c('h4',{attrs:{"id":"achievements"}},[_v("Achievements"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#achievements","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Tue, 8 Apr 2025, 10:57:00 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Tue, 8 Apr 2025, 11:14:09 GMT+8]")])])])}
 }];
   
