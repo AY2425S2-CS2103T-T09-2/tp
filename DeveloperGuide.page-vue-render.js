@@ -356,7 +356,7 @@ with(this){return _c('ol',[_c('li',[_v("User requests to add a medical report fo
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("1a. Missing NRIC → Klinix shows an invalid command error message."),_c('br'),_v("\nUse case resumes at step 1.")]),_v(" "),_c('li',[_v("1b. Invalid parameters format → Klinix shows an invalid parameters error message."),_c('br'),_v("\nUse case resumes at step 1.")]),_v(" "),_c('li',[_v("1c. No matching patient found → Klinix shows a message indicating that there are no matching patients."),_c('br'),_v("\nUse case ends.")]),_v(" "),_c('li',[_v("1d. No medical fields provided → Klinix shows an invalid fields message."),_c('br'),_v("\nUse case resumes at step 1.")])])}
+with(this){return _c('ul',[_c('li',[_v("1a. Missing NRIC → Klinix shows an invalid command error message."),_c('br'),_v("\nUse case resumes at step 1.")]),_v(" "),_c('li',[_v("1b. Invalid parameters format → Klinix shows an invalid parameters error message."),_c('br'),_v("\nUse case resumes at step 1.")]),_v(" "),_c('li',[_v("1c. No matching patient found → Klinix shows an invalid patient error message."),_c('br'),_v("\nUse case resumes at step 1.")]),_v(" "),_c('li',[_v("1d. No medical fields provided → Klinix shows an invalid fields message."),_c('br'),_v("\nUse case resumes at step 1.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Deleting a Medical Report")])])}
@@ -800,6 +800,6 @@ with(this){return _c('p',[_c('strong',[_v("Testing and Debugging:")]),_v(" To en
 with(this){return _c('h4',{attrs:{"id":"achievements"}},[_v("Achievements"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#achievements","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Tue, 8 Apr 2025, 8:47:52 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Tue, 8 Apr 2025, 10:19:43 GMT+8]")])])])}
 }];
   
